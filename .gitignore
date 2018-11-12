@@ -2,4 +2,4 @@
 *.sublime-project
 *.DS_Store
 */data
-.parquet
+*.parquet
